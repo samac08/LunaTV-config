@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-12 13:51 CST）
+## API 状态（最近更新：2026-03-12 14:55 CST）
 
 - 总 API 数量：79
-- 成功 API 数量：70
-- 失败 API 数量：9
+- 成功 API 数量：69
+- 失败 API 数量：10
 - 平均可用率：86.8%
 - 完美可用率（100%）：32 个
 - 高可用率（80%-99%）：38 个
@@ -229,7 +229,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 87 | 13 | 87.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 1 |
 | ✅ | 🎬旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
