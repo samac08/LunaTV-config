@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-31 10:42 CST）
+## API 状态（最近更新：2026-07-31 14:12 CST）
 
 - 总 API 数量：79
-- 成功 API 数量：65
-- 失败 API 数量：14
+- 成功 API 数量：66
+- 失败 API 数量：13
 - 平均可用率：82.5%
 - 完美可用率（100%）：41 个
 - 高可用率（80%-99%）：24 个
@@ -212,7 +212,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬鸭鸭资源 | https://cj.yayazy.net/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬鸭鸭资源 | https://cj.yayazy.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
