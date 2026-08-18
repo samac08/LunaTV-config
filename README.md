@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-18 07:21 CST）
+## API 状态（最近更新：2026-08-18 09:08 CST）
 
 - 总 API 数量：79
 - 成功 API 数量：67
 - 失败 API 数量：12
-- 平均可用率：80.0%
+- 平均可用率：80.1%
 - 完美可用率（100%）：49 个
 - 高可用率（80%-99%）：14 个
 - 中等可用率（50%-79%）：0 个
@@ -220,9 +220,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 🔞CK资源 | https://ckzy.me/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ✅ | 🔞CK资源 | https://ckzy.me/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 38 | 62 | 38.0% | 0 |
