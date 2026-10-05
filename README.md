@@ -146,15 +146,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-05 09:37 CST）
+## API 状态（最近更新：2026-10-05 16:23 CST）
 
 - 总 API 数量：79
-- 成功 API 数量：65
-- 失败 API 数量：14
+- 成功 API 数量：64
+- 失败 API 数量：15
 - 平均可用率：83.1%
 - 完美可用率（100%）：50 个
-- 高可用率（80%-99%）：16 个
-- 中等可用率（50%-79%）：0 个
+- 高可用率（80%-99%）：15 个
+- 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：13 个
 
 <div style="font-size: 11px;">
@@ -224,12 +224,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬无尽资源1 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 94 | 6 | 94.0% | 5 |
+| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 30 | 70 | 30.0% | 70 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 15 | 85 | 15.0% | 82 |
+| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 1 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 15 | 85 | 15.0% | 83 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
