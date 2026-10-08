@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-08 10:32 CST）
+## API 状态（最近更新：2026-10-08 18:02 CST）
 
 - 总 API 数量：79
 - 成功 API 数量：65
 - 失败 API 数量：14
-- 平均可用率：82.8%
+- 平均可用率：82.7%
 - 完美可用率（100%）：49 个
 - 高可用率（80%-99%）：17 个
 - 中等可用率（50%-79%）：0 个
@@ -226,10 +226,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 83 | 17 | 83.0% | 17 |
+| 🚨 | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 82 | 18 | 82.0% | 18 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 18 | 82 | 18.0% | 82 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 6 | 94 | 6.0% | 94 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 17 | 83 | 17.0% | 83 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 5 | 95 | 5.0% | 95 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
